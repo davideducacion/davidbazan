@@ -1,7 +1,7 @@
 - 👋 Hola, soy David Bazán @davideducacion
 - 👀 Estoy interesado en el desarrollo de tecnologías para la educación
 - 🌱 Actualmente estoy aprendiendo Android
-- 💞️ Busco colaborar en proyectos de tecnológia enfocados a la educación básica regular
+- 💞️ Busco colaborar en proyectos de tecnología enfocados a la educación básica regular
 - 📫 Un placer contactar dbazang@gmail.com
 
 <!---
